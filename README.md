@@ -1,10 +1,12 @@
 ## IMPORTANT
 
 This is an archive from here: https://github.com/neko-night/nvim . If you visit this page, you will get 404 because it was deleted.
-This colorscheme was not made by me. 
+For some completely unexplained reasons.
+
+This colorscheme was not made by me. It was made by thebigcicca (Bruno G. Ciccarino) and gs-101 gs-101 (Gabriel Santos).
 
 All files in this repo are from 2025. I can't guarantee if this colorscheme still works with the modern releases of Neovim.
-I will not maintain this colorscheme. Feel free to fork this repo.
+I will not maintain this colorscheme. Feel free to fork this repo and please consider mentioning the names of the authors.
 
 ...Now, here is the rest of this `README.md` document. 
 Enjoy!
