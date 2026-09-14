@@ -1,3 +1,11 @@
+## IMPORTANT
+
+This is an archive from here: https://github.com/neko-night/nvim . If you visit this page, you will get 404 because it was deleted.
+This colorscheme was not made by me.
+
+...Now, here is the rest of this `README.md` document. 
+Enjoy!
+
 <h1 align="center">
   <br>
   <a href="https://github.com/BrunoCiccarino/nekonight">
