@@ -11,6 +11,8 @@ I will not maintain this colorscheme. Feel free to fork this repo and please con
 ...Now, here is the rest of this `README.md` document. 
 Enjoy!
 
+----
+
 <h1 align="center">
   <br>
   <a href="https://github.com/BrunoCiccarino/nekonight">
